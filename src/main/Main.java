@@ -16,6 +16,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("I, Daniil, have commited a change!");
 		System.out.println("I, Alen, have commited a change!");
+		System.out.println("I, Chen, have commited a change!");
 	}
 
 }
